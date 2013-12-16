@@ -1,0 +1,5 @@
+person:
+  age:
+    years: 29
+  location:
+    city: Paris
