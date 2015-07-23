@@ -1,5 +1,9 @@
 person:
-  age:
-    years: 29
-  location:
-    city: Paris
+  first_name: "Sébastien"
+  last_name: "Saunier"
+  age: 30
+  location: Paris
+  work:
+    company: "Le Wagon"
+    url: http://www.lewagon.org
+    position: CTO
